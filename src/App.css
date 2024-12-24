@@ -1,0 +1,7 @@
+.mandiv{
+  height: 400px;
+  width: 300px;
+  background-color: rgb(248, 11, 11);
+  display: flex;
+  justify-content: right;
+}
